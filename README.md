@@ -1,6 +1,6 @@
 # Mapas Culturais Theme - Estado de São Paulo
 
-This theme was created to works with Mapas Culturais (https://github.com/hacklabr/mapasculturais). All changes here were taken from here (https://github.com/hacklabr/mapasculturais/blob/master/doc/developer-guide/themes.md). 
+This theme was created to works with [Mapas Culturais](https://github.com/hacklabr/mapasculturais). All changes here were taken from [Theme Guide](https://github.com/hacklabr/mapasculturais/blob/master/doc/developer-guide/themes.md). 
 
 # Colors
 
