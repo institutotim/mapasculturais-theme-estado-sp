@@ -17,13 +17,25 @@
 //      margin-top: 14px;
 // }
 
-//_home.scss
-// #home-watermark {
-// 	background-position: right bottom;
-// }
-// #nav-developers {
-//     background: #96161A;
-// }
-// #home-developers {
-//     background: #96161A;
-// }
+// _home.scss
+#home-watermark {
+ 	background-position: right bottom;
+	background-position: 100% bottom;
+}
+
+#nav-developers {
+     background: #30255F;
+}
+
+#home-developers {
+     background: #30255F;
+}
+
+#organization-logo {
+  float: left; }
+  #organization-logo img {
+    width: 56px; }
+    @media screen and (min-width: 768px) {
+      #organization-logo img {
+        width: 150px;
+        margin: 0 auto; } }
