@@ -53,7 +53,7 @@ class Theme extends BaseV1\Theme{
 					target="_blank">Mapas Culturais</a>, criado em parceria com o <a href="http://institutotim.org.br" target="_blank">Instituto TIM</a>, 
 					e você pode contribuir para o seu desenvolvimento através do <a href="https://github.com/hacklabr/mapasculturais/" target="_blank">GitHub</a>.',
 
-            'search: verified results' => 'Resultados Verificados',
+            'search: verified results' => 'Resultados Verificados - SEC',
 
             'search: verified' => "Verificados"
         ];
