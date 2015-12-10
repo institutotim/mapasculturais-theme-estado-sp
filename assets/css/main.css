@@ -275,14 +275,14 @@ button[type='submit'] {
   color: #fff;
   font-weight: bold;
   font-size: 0.75rem;
-  background-color: #006699;
+  background-color: #003399;
   cursor: pointer;
-  border: 1px solid #004466; }
+  border: 1px solid #002266; }
   input[type='submit']:hover,
   button[type='submit']:hover {
     color: #fff;
-    background-color: #0077b3;
-    border: 1px solid #004466;
+    background-color: #003cb3;
+    border: 1px solid #002266;
     box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.25); }
 
 input[type='radio'],
@@ -325,7 +325,7 @@ caption {
   padding: 0.5rem;
   font-weight: bold;
   color: #fff;
-  background: #006699;
+  background: #003399;
   border-radius: 2px 2px 0 0; }
 
 th,
@@ -653,7 +653,7 @@ h6 {
   width: 100%;
   min-height: 42px;
   padding: .25rem 142px;
-  border-left: 8px solid #006699;
+  border-left: 8px solid #003399;
   background: #e2e2e2;
   text-align: center; }
   #editable-entity.editable-entity-edit {
@@ -681,7 +681,7 @@ h6 {
   line-height: 2rem;
   margin-bottom: 0; }
   #small-brand a {
-    color: #006699; }
+    color: #003399; }
   #small-brand img {
     display: block;
     height: 2.2rem;
@@ -1171,7 +1171,7 @@ article.project .header-image, article.registration .header-image {
   font-size: 1rem;
   line-height: 1.875rem; }
   #brand-logo a {
-    color: #006699; }
+    color: #003399; }
     #brand-logo a:hover {
       text-decoration: none; }
   #brand-logo img {
@@ -1287,9 +1287,9 @@ article.project .header-image, article.registration .header-image {
       box-shadow: none;
       -webkit-box-shadow: none; }
     .menu > li:hover {
-      border-top-color: #006699; }
+      border-top-color: #003399; }
       .menu > li:hover > a {
-        color: #006699; }
+        color: #003399; }
   @media print {
     .menu {
       display: none; } }
@@ -1431,7 +1431,7 @@ article.project .header-image, article.registration .header-image {
   .user .submenu {
     right: 0;
     width: 11.5rem;
-    background: #006699; }
+    background: #003399; }
     .user .submenu li {
       position: relative;
       padding-right: 2rem; }
@@ -1441,7 +1441,7 @@ article.project .header-image, article.registration .header-image {
     .user .submenu a {
       display: block;
       vertical-align: middle;
-      color: #99ddff;
+      color: #99bbff;
       padding: 0.5rem;
       font-weight: normal; }
       .user .submenu a:hover {
@@ -1456,7 +1456,7 @@ article.project .header-image, article.registration .header-image {
       content: "";
       position: absolute;
       top: -8px;
-      border-bottom: 8px solid #006699;
+      border-bottom: 8px solid #003399;
       border-left: 8px solid transparent;
       border-right: 8px solid transparent;
       right: 0.6875rem; }
@@ -1489,7 +1489,7 @@ article.project .header-image, article.registration .header-image {
     vertical-align: middle;
     color: #999; }
   .notifications .submenu .check_alt:hover {
-    color: #006699; }
+    color: #003399; }
   .notifications .submenu:before {
     content: "";
     position: absolute;
@@ -1510,7 +1510,7 @@ article.project .header-image, article.registration .header-image {
     border-left: 5px solid #999;
     border-radius: 0 2px 2px 0; }
     .notifications .submenu .notification:hover, .notifications .submenu .notification.read {
-      border-left: 5px solid #006699;
+      border-left: 5px solid #003399;
       background: #fff; }
   @media screen and (min-width: 768px) {
     .notifications .submenu {
@@ -1586,7 +1586,7 @@ article.project .header-image, article.registration .header-image {
   background: inherit; }
 
 #nav-intro {
-  background: #006699; }
+  background: #003399; }
 
 #nav-events {
   background: #ff9900; }
@@ -1740,7 +1740,7 @@ article.project .header-image, article.registration .header-image {
 
 #home-intro {
   min-height: calc(100vh - 4.875rem);
-  background: #006699; }
+  background: #003399; }
   #home-intro .box {
     float: none;
     width: auto; }
@@ -1970,7 +1970,7 @@ body.editable #main-section {
   display: inline-block;
   background: #000000 url(../img/icon-localizacao.png) center no-repeat; }
   #near-me:hover, #locate-me:hover {
-    background-color: #006699; }
+    background-color: #003399; }
 
 #filtro-local {
   height: 1.875rem; }
@@ -1997,7 +1997,7 @@ body.editable #main-section {
     display: inline-block;
     background: #000000 url(../img/icon-localizacao.png) center no-repeat; }
     #filtro-local #near-me:hover {
-      background-color: #006699; }
+      background-color: #003399; }
   @media screen and (min-width: 992px) {
     #filtro-local {
       position: absolute;
@@ -2149,10 +2149,10 @@ nav.sidebar-panel ul {
     transition: all .3s; }
     nav.sidebar-panel ul a.active {
       background: #fff;
-      border-left-color: #006699; }
+      border-left-color: #003399; }
     nav.sidebar-panel ul a:hover {
-      background: #006699;
-      border-left-color: #006699;
+      background: #003399;
+      border-left-color: #003399;
       color: #fff;
       text-decoration: none; }
   nav.sidebar-panel ul .icon {
@@ -2184,7 +2184,7 @@ nav.sidebar-panel ul {
   padding-left: 3rem; }
 
 .como-usar-content h2 {
-  color: #006699;
+  color: #003399;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-weight: normal; }
 
@@ -2718,12 +2718,12 @@ nav.sidebar-panel ul {
 
 .btn-primary {
   color: #fff;
-  background-color: #006699;
-  border: 1px solid #004466; }
+  background-color: #003399;
+  border: 1px solid #002266; }
   .btn-primary:hover {
     color: #fff;
-    background-color: #0077b3;
-    border: 1px solid #004466; }
+    background-color: #003cb3;
+    border: 1px solid #002266; }
 
 .btn-accent {
   color: #fff;
@@ -2927,7 +2927,7 @@ table.contratos td {
   padding: 0.75rem;
   background: #fff;
   border: none;
-  border-top: 4px solid #006699;
+  border-top: 4px solid #003399;
   border-radius: 2px;
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3); }
 
@@ -2967,7 +2967,7 @@ table.contratos td {
 
 .edit-box.mc-bottom .mc-arrow {
   top: -20px;
-  border-color: transparent transparent #006699 transparent; }
+  border-color: transparent transparent #003399 transparent; }
 
 .edit-box.mc-left .mc-arrow {
   right: -16px;
@@ -3041,6 +3041,14 @@ table.contratos td {
 input.data {
   width: 72px;
   padding: 3px; }
+
+/* Select Directives */
+.mc-select-directive--option {
+  display: inline-block;
+  width: 50%; }
+
+.mc-select-directive--other {
+  padding: 10px 0; }
 
 /*ícones*/
 h1 .icon {
@@ -3213,7 +3221,7 @@ h1 .icon {
   padding: 1.5rem;
   z-index: 1900;
   background: #fff;
-  border-top: 4px solid #006699;
+  border-top: 4px solid #003399;
   border-radius: 2px;
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3); }
 
@@ -3378,7 +3386,7 @@ h1 .icon {
       .abas li:hover a {
         color: #000000; }
     .abas li.active {
-      border-bottom: 1px solid #006699; }
+      border-bottom: 1px solid #003399; }
       .abas li.active a {
         color: #000000; }
   @media screen and (min-width: 480px) {
@@ -3503,13 +3511,13 @@ h1 .icon {
   color: #fff; }
 
 .hltip-primary .hltip-arrow-top {
-  border-color: transparent transparent #006699 transparent; }
+  border-color: transparent transparent #003399 transparent; }
 
 .hltip-primary .hltip-arrow-bottom {
-  border-color: #006699 transparent transparent transparent; }
+  border-color: #003399 transparent transparent transparent; }
 
 .hltip-primary .hltip-text {
-  background: #006699;
+  background: #003399;
   color: #fff; }
 
 .hltip-default .hltip-arrow-top {
@@ -3546,7 +3554,7 @@ h1 .icon {
     -webkit-transition: all .3s;
     transition: all .3s; }
     #user-stats > div > div:hover {
-      background: #006699; }
+      background: #003399; }
       #user-stats > div > div:hover .icon-add {
         background: #000000;
         color: #fff;
@@ -3699,7 +3707,7 @@ h1 .icon {
   background: #ccc; }
 
 .highlighted-message {
-  border-left: 3px solid #006699;
+  border-left: 3px solid #003399;
   padding: 0.75rem;
   margin-bottom: 1.5rem;
   background: #f8f8f8; }
@@ -4250,7 +4258,7 @@ a.editable-click:hover {
   padding: 0.75rem;
   background: #fff;
   border: none;
-  border-top: 4px solid #006699;
+  border-top: 4px solid #003399;
   border-radius: 2px;
   box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.3); }
 
@@ -4449,7 +4457,7 @@ div.ficha-spcultura .editable-buttons-bottom {
 
 .leaflet-control-layers-expanded {
   padding: 0.75rem;
-  background-color: #006699; }
+  background-color: #003399; }
 
 .leaflet-control-layers-toggle, .leaflet-retina .leaflet-control-layers-toggle {
   width: 32px;
@@ -4475,7 +4483,7 @@ div.ficha-spcultura .editable-buttons-bottom {
     width: 32px;
     height: 32px;
     color: #fff;
-    background-color: #006699; }
+    background-color: #003399; }
   .leaflet-bar a:first-child {
     border-radius: 2px 2px 0 0; }
   .leaflet-bar a:last-child {
@@ -4512,7 +4520,7 @@ div.ficha-spcultura .editable-buttons-bottom {
   background-color: #000000;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5); }
   .leaflet-control-command-interior:hover {
-    background-color: #006699; }
+    background-color: #003399; }
 
 .leaflet-draw {
   display: none; }
@@ -4543,13 +4551,13 @@ div.ficha-spcultura .editable-buttons-bottom {
     background-color: #000000; }
     .leaflet-draw-actions a:hover {
       text-decoration: none;
-      background-color: #006699; }
+      background-color: #003399; }
   .leaflet-draw-actions li:last-child a {
     -webkit-border-radius: 0 2px 2px 0;
     border-radius: 0 2px 2px 0; }
 
 .leaflet-bar a.leaflet-draw-toolbar-button-enabled {
-  background-color: #006699; }
+  background-color: #003399; }
 
 .leaflet-draw-actions-top.leaflet-draw-actions-bottom a {
   line-height: 32px;
@@ -4626,9 +4634,9 @@ div.ficha-spcultura .editable-buttons-bottom {
   background-size: 36px 42px; }
 
 .vetorial-padrao {
-  stroke: #006699;
+  stroke: #003399;
   fill-opacity: .25;
-  fill: #006699;
+  fill: #003399;
   stroke-opacity: .4;
   stroke-width: 2px; }
   .vetorial-padrao:hover {
@@ -4686,7 +4694,7 @@ body.infobox-open .leaflet-draw {
 .mfp-image-holder .mfp-close {
   padding: 0;
   opacity: 1;
-  color: #006699; }
+  color: #003399; }
 
 .mfp-image-holder .mfp-close:hover {
   color: #fff; }
@@ -4698,7 +4706,7 @@ button.mfp-arrow {
   width: 40px;
   height: 40px;
   margin-top: -20px;
-  background: #006699;
+  background: #003399;
   color: #fff;
   text-align: center;
   line-height: 40px;
@@ -4710,7 +4718,7 @@ button.mfp-arrow:active {
 
 button.mfp-arrow:hover {
   background: #fff;
-  color: #006699; }
+  color: #003399; }
 
 button.mfp-arrow-right {
   margin-right: 10px; }
