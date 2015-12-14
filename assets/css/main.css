@@ -1601,7 +1601,7 @@ article.project .header-image, article.registration .header-image {
   background: #cc3300; }
 
 #nav-developers {
-  background: #96c; }
+  background: #9966cc; }
 
 .up {
   border-top-right-radius: 2px; }
@@ -1848,7 +1848,7 @@ article.project .header-image, article.registration .header-image {
     border-bottom-color: #cc3300; }
 
 #home-developers {
-  background: #96c; }
+  background: #9966cc; }
   #home-developers .box {
     float: none;
     width: auto; }
@@ -3042,14 +3042,6 @@ input.data {
   width: 72px;
   padding: 3px; }
 
-/* Select Directives */
-.mc-select-directive--option {
-  display: inline-block;
-  width: 50%; }
-
-.mc-select-directive--other {
-  padding: 10px 0; }
-
 /*ícones*/
 h1 .icon {
   width: 2rem;
@@ -4105,6 +4097,33 @@ h1 .icon {
       border-bottom: none; }
     .attachment-list .attachment-list-item.registration-edit-mode {
       padding-right: 14rem; }
+
+editable-multiselect .help, editable-singleselect .help {
+  margin-top: -5px;
+  margin-bottom: 5px;
+  max-width: 500px;
+  display: block; }
+editable-multiselect .edit-box, editable-singleselect .edit-box {
+  width: auto; }
+  editable-multiselect .edit-box .mc-select-directive--other, editable-singleselect .edit-box .mc-select-directive--other {
+    padding: 10px 0; }
+  editable-multiselect .edit-box .select-table, editable-singleselect .edit-box .select-table {
+    margin-bottom: 5px; }
+    editable-multiselect .edit-box .select-table td, editable-singleselect .edit-box .select-table td {
+      text-align: left;
+      padding: 0;
+      margin: 0;
+      border: none;
+      width: 50%; }
+      editable-multiselect .edit-box .select-table td label, editable-singleselect .edit-box .select-table td label {
+        display: block;
+        padding-right: 5px;
+        /*white-space: nowrap;*/
+        max-width: 300px; }
+      editable-multiselect .edit-box .select-table td.left, editable-singleselect .edit-box .select-table td.left {
+        border-right: 1px solid #ddd; }
+      editable-multiselect .edit-box .select-table td.right, editable-singleselect .edit-box .select-table td.right {
+        padding-left: 10px; }
 
 .ui-datepicker {
   display: none;

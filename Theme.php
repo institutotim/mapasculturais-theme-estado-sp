@@ -22,7 +22,7 @@ class Theme extends BaseV1\Theme{
             'site: by the site owner' => 'pela Secretaria da Cultura do Governo do Estado de São Paulo',
 
             'home: title' => "Bem-vind@!",
-            'home: abbreviation' => "SP Estado da Cultura",
+            'home: abbreviation' => "Secretaria da Cultura do Estado de São Paulo",
 
             'home: colabore' => "Colabore com o Mapas Culturais",
 
