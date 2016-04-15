@@ -24,7 +24,7 @@ class Theme extends BaseV1\Theme{
             'home: title' => "Bem-vind@!",
             'home: abbreviation' => "Secretaria da Cultura do Estado de São Paulo",
 
-            'home: colabore' => "Colabore com o Mapas Culturais",
+            'home: colabore' => "Colabore com o SP Estado da Cultura",
 
             'home: welcome' => "A plataforma colaborativa <b>SP Estado da Cultura</b> é uma ferramenta de mapeamento que facilita a divulgação 
 				e a transparência das iniciativas culturais que acontecem no território paulista. Disponibilizada pela 
