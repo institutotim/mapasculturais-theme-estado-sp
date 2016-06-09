@@ -28,15 +28,15 @@ return [
     'maps.includeGoogleLayers' => false,
 //    // descomente para definir quais fivisões geográficas são utilizadas no tema
 //    // devem ser as mesmas dos shapefiles
-//    'app.geoDivisionsHierarchy' => [
-//        'pais'          => 'País',
-//        'regiao'        => 'Região',
-//        'estado'        => 'Estado',
-//        'mesorregiao'   => 'Mesorregião',
-//        'microrregiao'  => 'Microrregião',
-//        'municipio'     => 'Município',
-//        'zona'          => 'Zona',
-//        'subprefeitura' => 'Subprefeitura',
-//        'distrito'      => 'Distrito'
-//    ],
+   'app.geoDivisionsHierarchy' => [
+       // 'pais'          => 'País',
+       // 'regiao'        => 'Região',
+       // 'estado'        => 'Estado',
+       // 'mesorregiao'   => 'Mesorregião',
+       // 'microrregiao'  => 'Microrregião',
+       'municipio'     => 'Município',
+       // 'zona'          => 'Zona',
+       // 'subprefeitura' => 'Subprefeitura',
+       // 'distrito'      => 'Distrito'
+   ],
 ];
