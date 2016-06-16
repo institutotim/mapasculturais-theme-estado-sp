@@ -34,7 +34,8 @@ return [
        // 'estado'        => 'Estado',
        // 'mesorregiao'   => 'Mesorregião',
        // 'microrregiao'  => 'Microrregião',
-       'municipio'     => 'Município',
+      'adm_reg'         => 'Regiões Administrativas',
+       'municipio'      => 'Município',
        // 'zona'          => 'Zona',
        // 'subprefeitura' => 'Subprefeitura',
        // 'distrito'      => 'Distrito'
